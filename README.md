@@ -1,5 +1,4 @@
-# dmn-parcellation
+# Parcellating the Default-Mode Network
 DMN parcellation with Shaoming and Adrienne
 
-# Mask Generation
-1) neurosynth
+
