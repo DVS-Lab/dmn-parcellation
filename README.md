@@ -1,5 +1,8 @@
-# neurosynth-mfc
+# Functional parcellation for the default mode network (DMN): a large-scale meta-analysis
 This repository contains code, data, and results for Wang, Taren & Smith (bioRxiv, 2017). 
+
+The codes are based on previous work parcellating MFC and LFC (de la Vega et al., 2016; 2017). 
+We thank Alexandro de la Vega for sharing his codes online and answer our technical questions!
 
 link to the preprint: https://www.biorxiv.org/content/early/2017/11/27/225375
 
