@@ -3,13 +3,12 @@ This repository contains code, data, and results for Wang, Taren & Smith (bioRxi
 Preprint of the manuscript: https://www.biorxiv.org/content/early/2017/11/27/225375
 
 The codes are based on previous work parcellating MFC and LFC (de la Vega et al., 2016; 2017): 
+
 https://github.com/adelavega/neurosynth-mfc
 
 https://github.com/adelavega/neurosynth-lfc
 
-We thank Alexandro de la Vega for sharing his codes online and answer our technical questions!
-
-
+We thank Alejandro de la Vega for sharing his codes online and answer our technical questions!
 
 Figures for the manuscript (in .eps format) available at figures/
 
