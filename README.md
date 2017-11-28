@@ -1,9 +1,9 @@
 # neurosynth-mfc
-This repository contains code, data, and results for De La Vega, Chang, Banich, Wager & Yarkoni. Journal of Neuroscience (2016). 
+This repository contains code, data, and results for Wang, Taren & Smith (bioRxiv, 2017). 
 
-Final parcellation images are available under images/
+link to the preprint: https://www.biorxiv.org/content/early/2017/11/27/225375
 
-Follow along the [Clustering](Clustering.ipynb), [Coactivation](Coactivation.ipynb), and [Functional preference profiles](Functional preference profiles.ipynb) notebooks to recreate analyses, results and visualizations from the article. These notebooks are intended to allow researchers to easily perform similar analyses on other brain areas of interest.
+Figures (.eps) for the manuscript available at figures/
 
 ### Requirements
 Python 2.7.x
@@ -15,7 +15,7 @@ For analysis:
 - Scipy/Numpy (Easiest way is using miniconda distribution)
 - Scikit-learn
 - joblib
-- nibabel 1.x
+- nibabel 1.x (this is very important for the codes to work!)
 
 For visualization:
 - Pandas
@@ -23,8 +23,5 @@ For visualization:
 - seaborn
 
 Unzip pre-generated Neurosynth dataset prior to analysis
-
-
-![alt text](/preprint/Figure 2 - Labeled_clusters.png)
 
 
