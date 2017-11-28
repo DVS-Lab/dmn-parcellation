@@ -6,7 +6,9 @@ We thank Alexandro de la Vega for sharing his codes online and answer our techni
 
 link to the preprint: https://www.biorxiv.org/content/early/2017/11/27/225375
 
-Figures (.eps) for the manuscript available at figures/
+Figures for the manuscript (in .eps format) available at figures/
+
+The main results can be produced following Clustering, Coactivation and Functional profiels.
 
 ### Requirements
 Python 2.7.x
