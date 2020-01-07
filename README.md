@@ -1,6 +1,8 @@
+[![DOI](https://zenodo.org/badge/99120146.svg)](https://zenodo.org/badge/latestdoi/99120146)
+
 # Functional parcellation for the default mode network (DMN): a large-scale meta-analysis
-This repository contains code, data, and results for Wang, Taren & Smith (bioRxiv, 2017). 
-Preprint of the manuscript: https://www.biorxiv.org/content/early/2017/11/27/225375
+This repository contains code, data, and results for Wang, Taren, Tepfer, & Smith (bioRxiv, 2019). 
+Preprint of the manuscript: https://www.biorxiv.org/content/10.1101/225375v3
 
 The codes are based on previous work parcellating MFC and LFC (de la Vega et al., 2016; 2017): 
 
