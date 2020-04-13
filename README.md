@@ -4,17 +4,17 @@
 This repository contains code, data, and results for Wang, Taren, Tepfer, & Smith (bioRxiv, 2019). 
 Preprint of the manuscript: https://www.biorxiv.org/content/10.1101/225375v3
 
-The codes are based on previous work parcellating MFC and LFC (de la Vega et al., 2016; 2017): 
+The code is based on previous work parcellating MFC and LFC (de la Vega et al., 2016; 2017): 
 
 https://github.com/adelavega/neurosynth-mfc
 
 https://github.com/adelavega/neurosynth-lfc
 
-We thank Alejandro de la Vega for sharing his codes online and answer our technical questions!
+We thank Alejandro de la Vega for sharing his code online and answering our technical questions!
 
 Figures for the manuscript (in .eps format) available at figures/
 
-The main results can be produced following Clustering, Coactivation and Functional preference profiels.
+The main results can be produced following Clustering, Coactivation and Functional preference profiles.
 
 ### Requirements
 Python 2.7.x
@@ -26,7 +26,7 @@ For analysis:
 - Scipy/Numpy (Easiest way is using miniconda distribution)
 - Scikit-learn
 - joblib
-- nibabel 1.x (this is very important for the codes to work!)
+- nibabel 1.x (this is very important for the code to work!)
 
 For visualization:
 - Pandas
